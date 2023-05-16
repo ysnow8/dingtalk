@@ -1,0 +1,21 @@
+{
+    "name": "ysnow/dingtalk",
+    "description": "this is dingtalk",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ysnow\\Dingtalk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ysnow",
+            "email": "ysnow888@gmail.com"
+        }
+    ],
+    "minimum-stability":"dev",
+    "require-dev": {
+        "phpunit/phpunit": "^10.2@dev"
+    }
+}
